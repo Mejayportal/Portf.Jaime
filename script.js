@@ -38,7 +38,7 @@ $(document).ready(function(){
   // <!-- text-animation code link -->
   
   var typed = new Typed('#element', {
-    strings: ['Web Developer.','Wordpress Developer.','Video/Photo Editor.'],
+    strings: ['Web Developer.','Wordpress Developer.','Video/Photo Editor.','Designer.'],
     typeSpeed: 100,
     backSpeed:100,
     loop: true
